@@ -1,5 +1,5 @@
-# Faculdade-Unes
-Projeto UNES (Página institucional de uma universidade)
+# Faculdade-Unes P(Página institucional de uma universidade fictícia)
+
 ![alt text](Imagens/logo.png)
 ![alt text](Imagens/prototipoUnes.png)
 
