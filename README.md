@@ -1,5 +1,4 @@
 # Faculdade-Unes
-Projeto UNES (Página institucional de uma universidade)
 ![alt text](Imagens/logo.png)
 ![alt text](Imagens/projetoUnes.png)
 
