@@ -1,13 +1,7 @@
-# Faculdade-Unis
+# Faculdade-Unes
 Projeto UNES (Página institucional de uma universidade)
-
-<h1 align="center">
- ![alt text](src/Imagens/logo.png)
-</h1>
-
-<h1>
-    <img src="Imagem/">
-</h1>
+![alt text](Imagens/logo.png)
+![alt text](Imagens/projetoUnes.png)
 
 <h3 align="center">
     <a href="">Acessar a demonstração</a>
@@ -21,21 +15,21 @@ Projeto UNES (Página institucional de uma universidade)
 
 ## 🔖&nbsp; Sobre
 
-Projeto **FACULDADE UNES** é uma Página institucional de uma universidade desenvolvido durante o **Curso Desenvolvimento Web pela Udemy** com o intuito de colocarmos em prática todo conteúdo estudado durante o módulo de html5 básico.
+Projeto **FACULDADE UNIS** é uma Página institucional de uma universidade desenvolvido durante o **Curso Desenvolvimento Web pela Udemy** com o intuito de colocarmos em prática todo conteúdo estudado durante o módulo de HTML5 básico.
 
 ---
 ## 🚀 Prototipo
-![alt text](Imagens/ApresentaçãoUnis.png)
+![alt text](Imagens/UIPrototype.jpg)
 
 ---
 
 ## 🚀 Tecnologias utilizadas
 
-O projeto foi desenvolvido utilizando as seguintes tecnologias
+O projeto foi desenvolvido utilizando as seguinte tecnologia
 
-- [HTML](https://www.w3schools.com/html/)
+- [HTML5](https://www.w3schools.com/html/)
 
 
 ---
-### .Desenvolvido por:
+### Desenvolvido por:
 * [Beatriz Ferraz](https://github.com/bea-ferraz)
