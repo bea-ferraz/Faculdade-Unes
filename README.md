@@ -1,5 +1,5 @@
-# Faculdade-Unes P(Página institucional de uma universidade fictícia)
-
+# Faculdade-Unes
+Projeto UNES (Página institucional de uma universidade)
 ![alt text](Imagens/logo.png)
 ![alt text](Imagens/prototipoUnes.png)
 
@@ -10,11 +10,16 @@
 # Indice
 
 - [Sobre](#-sobre)
+- [Protótipo](#-prototipo)
 - [Tecnologias Utilizadas](#-tecnologias-utilizadas)
 
 ## 🔖&nbsp; Sobre
 
 Projeto **FACULDADE UNIS** é uma Página institucional de uma universidade desenvolvido durante o **Curso Desenvolvimento Web pela Udemy** com o intuito de colocarmos em prática todo conteúdo estudado durante o módulo de HTML5 básico.
+
+---
+## 🚀 Prototipo
+![alt text](Imagens/UIPrototype.jpg)
 
 ---
 
